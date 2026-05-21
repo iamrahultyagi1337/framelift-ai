@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://iamrahultyagi1337.github.io/framelift-ai/sitemap.xml
